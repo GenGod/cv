@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /css/
+Disallow: /assets/
+Disallow: /commands/
+Disallow: /config/
+Disallow: /controllers/
+Disallow: /dayside/
+Disallow: /images/
+Disallow: /mail/
+Disallow: /models/
+Disallow: /runtime/
+Disallow: /tests/
+Disallow: /vendor/
+Disallow: /views/
