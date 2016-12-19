@@ -33,6 +33,8 @@ $this->params['breadcrumbs'][] = $this->title;
                     Xamarin). Изучаю ASP.NET MVC 5, ADO.NET и LINQ.
                     Могу написать работоспособные web-приложения с их помощью.</p>
             </div>
+        </div>
+        <div class="row">
             <div class="col-lg-4">
                 <h2 class="text-success"><i>Навык 4: Java</i></h2>
 
@@ -56,6 +58,8 @@ $this->params['breadcrumbs'][] = $this->title;
                     работу с элементами DOM-дерева, технологию AJAX, фреймворк jQuery. В настоящее время нахожусь в процессе изучения
                     фреймворка AngularJS.</p>
             </div>
+        </div>
+        <div class="row">
             <div class="col-lg-4">
                 <h2 class="text-success"><i>Навык 7: SQL</i></h2>
 
@@ -75,8 +79,10 @@ $this->params['breadcrumbs'][] = $this->title;
                 <p>CSS начал изучать примерно в одно время с HTML. Использую селекторы, псевдоклассы и нововведения CSS 3.
                     Работаю с Bootstrap 3 и LESS.</p>
             </div>
+        </div>
+        <div class="row">
             <div class="col-lg-4">
-                <h2 class="text=success"><i>Навык 10: GIT</i></h2>
+                <h2 class="text-success"><i>Навык 10: GIT</i></h2>
 
                 <p>Работаю с GIT на протяжении более 4-х лет. Имею профиль на GitHub.</p>
             </div>
