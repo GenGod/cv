@@ -3,6 +3,7 @@
 /* @var $this yii\web\View */
 
 $this->title = 'Сайт-визитка';
+$this->params['breadcrumbs'][] = $this->title;
 ?>
 <style>
     .img-rounded

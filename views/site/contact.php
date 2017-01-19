@@ -17,4 +17,5 @@ $this->params['breadcrumbs'][] = $this->title;
     <p>Телефон: </br><b>+79511375515</b></p>
     <p>Email: </br><b>gengodoriginal@gmail.com</b></br><b>generalgod@yandex.ru</b></p>
     <p>Skype: </br><b>gengod_original</b></p>
+    <p>Github: </br><b><a href="https://github.com/GenGod">GenGod</a></b></p>
 </div>
